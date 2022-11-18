@@ -1,0 +1,8 @@
+[submodule "kt-contractors"]
+	path = kt-contractors
+	url = git@github.com:ktransferllc/kt-contractors.git
+	branch = 13.0
+[submodule "kt-common"]
+	path = kt-common
+	url = git@github.com:ktransferllc/kt-common.git
+	branch = 14.0
